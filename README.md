@@ -4,7 +4,11 @@
 
 ## Student | Tiligor Founder
 
-<font color="pink"> Coffee coffee is how I keep up with '< code />' </font>
+##### Hi my name is Emirhan. I was born in 2003 in Adana, Turkey. I am constantly trying to learn new things to improve myself. I'm lost here. That's why I need your help.
+
+##### I'm so foreign around here. There is no one I can turn to for help. In order to improve myself, I watch lecture videos from the internet and UDEMY. I am sure that I will be able to improve myself in coding and this will be a very important way for my career.
+
+<font color="pink"> Coffee coffee is how I keep up with '<code>code</code>' </font>
 
 ### Reach Out To Me
 
@@ -43,11 +47,6 @@
 
 # Tiligor Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Adana’da “Akdeniz Gençlik Festivali” Heyecanı!](https://tiligor.com/adanada-akdeniz-genclik-festivali-heyecani/)
-- [5. Uluslararası Adana Lezzet Festivali Başlıyor!](https://tiligor.com/5-uluslararasi-adana-lezzet-festivali-basliyor/)
-- [Çukurova Rock Festival, 2 Yıllık Aranın Ardından Kaldığı Yerden Devam Ediyor!](https://tiligor.com/cukurova-rock-festival-2-yillik-aranin-ardindan-kaldigi-yerden-devam-ediyor/)
-- [Tarihi 5 Ocak Stadı’nın Yıkımına, Çimlerin Sökümüne Başlandı!](https://tiligor.com/tarihi-5-ocak-stadinin-yikimina-cimlerin-sokumune-baslandi/)
-- [Ramazan Ayında Geçerli Olacak Yeni Kısıtlamalar!](https://tiligor.com/ramazan-ayinda-gecerli-olacak-yeni-kisitlamalar/)
 <!-- BLOG-POST-LIST:END -->
 
 
