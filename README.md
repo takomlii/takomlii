@@ -24,6 +24,9 @@
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
+  <img alt="Linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=red">
+  <img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=red">
+  <img alt="Bash" src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=red">
 </p>
 
 ```yaml
@@ -69,8 +72,6 @@ hobbies: ["Photograpy", "Cinema", "Competitive Gaming", "Hiking"]
 <a href="#">
   <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
-<br>
-<img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1615?logoColor=white%26project=%26recentMS=0%26showProject=false" />
 </p>
 
 <br />
@@ -142,7 +143,16 @@ hobbies: ["Photograpy", "Cinema", "Competitive Gaming", "Hiking"]
 - [Ramazan Ayında Geçerli Olacak Yeni Kısıtlamalar!](https://tiligor.com/ramazan-ayinda-gecerli-olacak-yeni-kisitlamalar/)
 <!-- BLOG-POST-LIST:END -->
 
+📊 **This Week I Spent My Time On** 
 
+```text
+⌚︎ Time Zone: Istanbul/Turkey
+
+💬 Programming Languages: 
+Python, HTML, C#, PHP
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
 
 
 [Facebook]: https://facebook.com/LLemirhanLL
