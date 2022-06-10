@@ -26,6 +26,17 @@
   </a>
 </p>
 
+```yaml
+name: Emirhan Yavuz
+located_in: Adana, Turkey
+from: Adana
+job: Student
+education: ["High School"]
+company: Tiligor
+currently_learning: ["Python", "HTML"]
+hobbies: ["Photograpy", "Cinema", "Competitive Gaming", "Hiking"]
+```
+
 ##### Hi my name is Emirhan. I was born in 2003 in Adana, Turkey. I am constantly trying to learn new things to improve myself. I'm lost here. That's why I need your help.
 
 ##### I'm so foreign around here. There is no one I can turn to for help. In order to improve myself, I watch lecture videos from the internet and UDEMY. I am sure that I will be able to improve myself in coding and this will be a very important way for my career.
@@ -42,15 +53,35 @@
 <font color="pink"> Coffee coffee is how I keep up with '<code>code</code>' </font>
 
 
-### Reach Out To Me
+<h2 align="center"> Reach Out To Me</h3>
 
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/facebook.svg" align="left" />][Facebook]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" />][Twitter]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left" />][Instagram]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/github.svg" align="left" />][Github]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/torbrowser.svg" align="left" />][Tiligor]
+<p align="center">
+<br/>
+<a href="https://twitter.com/emirhanxyavuz">
+  <img alt="guilyx | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
+</a>
+<a href="#">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://www.instagram.com/takomlii">
+  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
+</a>
+<a href="#">
+  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
+<br>
+<img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1615?logoColor=white%26project=%26recentMS=0%26showProject=false" />
+</p>
 
 <br />
+
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=va5dopsk593gwrfmum9pmzn2u&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=va5dopsk593gwrfmum9pmzn2u&cover_image=true&theme=default&bar_color_cover=true">
+  </a>
+</p>
+
+
 <br />
 
 ### Tech I Use
@@ -110,6 +141,7 @@
 - [Tarihi 5 Ocak Stadı’nın Yıkımına, Çimlerin Sökümüne Başlandı!](https://tiligor.com/tarihi-5-ocak-stadinin-yikimina-cimlerin-sokumune-baslandi/)
 - [Ramazan Ayında Geçerli Olacak Yeni Kısıtlamalar!](https://tiligor.com/ramazan-ayinda-gecerli-olacak-yeni-kisitlamalar/)
 <!-- BLOG-POST-LIST:END -->
+
 
 
 
