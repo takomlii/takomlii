@@ -153,7 +153,7 @@ Python, HTML, C#, PHP
 
 🐱‍💻 Projects: 
 No Activity Tracked This Week
-
+```
 
 [Facebook]: https://facebook.com/LLemirhanLL
 [Twitter]: https://twitter.com/emirhanxyavuz
