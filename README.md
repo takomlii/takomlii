@@ -37,7 +37,7 @@ job: Student
 education: ["High School"]
 company: Tiligor
 currently_learning: ["Python", "HTML"]
-hobbies: ["Photograpy", "Cinema", "Competitive Gaming", "Hiking"]
+hobbies: ["Photograpy", "Cinema", "Hiking"]
 ```
 
 ##### Hi my name is Emirhan. I was born in 2003 in Adana, Turkey. I am constantly trying to learn new things to improve myself. I'm lost here. That's why I need your help.
